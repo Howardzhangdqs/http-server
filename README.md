@@ -13,7 +13,7 @@
 ```bash
 git clone https://github.com/Howardzhangdqs/http-server.git
 npm install
-
+npm start
 ```
 
 ## Usage:

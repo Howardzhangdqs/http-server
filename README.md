@@ -10,25 +10,11 @@
 
 ## Installation:
 
-#### Running on-demand:
+```bash
+git clone https://github.com/Howardzhangdqs/http-server.git
+npm install
 
-Using `npx` you can run the script without installing it first:
-
-    npx http-server [path] [options]
-
-#### Globally via `npm`
-
-    npm install --global http-server
-
-This will install `http-server` globally so that it may be run from the command line anywhere.
-
-#### Globally via Homebrew
-
-    brew install http-server
-     
-#### As a dependency in your `npm` package:
-
-    npm install http-server
+```
 
 ## Usage:
 
